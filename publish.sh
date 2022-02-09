@@ -1,0 +1,2 @@
+hugo -D
+wrangler publish

@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+db.json
+*.log
+node_modules/
+public/
+themes/
+.deploy*/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
