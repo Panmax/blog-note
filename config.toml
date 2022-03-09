@@ -830,7 +830,7 @@ uglyURLs = false
     displayWordCount = true
     wordCountIcon = "pencil-alt"
 
-    displayReadingTime = true
+    displayReadingTime = false
     readingTimeIcon = "clock"
 
     displayBusuanziPagePV = false

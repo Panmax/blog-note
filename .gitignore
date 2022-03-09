@@ -6,6 +6,7 @@ node_modules/
 public/
 themes/
 .deploy*/
+*.py
 
 ### IntelliJ IDEA ###
 .idea
